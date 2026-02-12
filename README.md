@@ -1,3 +1,5 @@
+### SGI 2026 Grand Challenge
+
 This analysis examines the systemic risks associated with the **Port of Aratu-Candeias**, focusing on how seasonal weather patterns and operational disruptions create global ripple effects. By leveraging vessel-tracking data, the project maps the "cost of closure" across domestic and international supply chains. I performed this analysis for the Grand Sustainability Challenge 2026 at McGill University. I've attached a copy of the report to the repo as well for reference.
 
 ### **Core Analysis**
